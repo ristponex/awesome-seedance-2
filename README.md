@@ -17,7 +17,7 @@
 
 ## 📢 Quick Access — Try Seedance on Atlas Cloud
 
-> **Seedance v1.5 Pro is live on Atlas Cloud right now** at just **$0.222/video**.
+> **Seedance v1.5 Pro is live on Atlas Cloud right now** at just **from $0.222/s**.
 > Seedance 2.0 API access is **coming soon** — sign up today to be first in line!
 
 | | |
@@ -80,7 +80,7 @@ Seedance 2.0 is not just an incremental update — it's a generational leap that
 | Q1–Q2 2026 (est.) | Global API access (delayed) |
 | TBA | Available on Atlas Cloud |
 
-> **Note:** While the global API launch has been delayed, you can already access **Seedance v1.5 Pro** through [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) at $0.222/video.
+> **Note:** While the global API launch has been delayed, you can already access **Seedance v1.5 Pro** through [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) at from $0.222/s.
 
 ---
 
@@ -101,7 +101,7 @@ Seedance 2.0 is a massive leap forward from version 1.5. Here's what changed:
 | **Sound Effects** | ❌ None | ✅ Synchronized SFX |
 | **Ambient Audio** | ❌ None | ✅ Environment-matched audio |
 | **API Availability** | ✅ Global (Atlas Cloud) | 🟡 China only (global coming soon) |
-| **Pricing (est.)** | $0.222/video | $0.10–$0.80/min |
+| **Pricing (est.)** | from $0.222/s | $0.10–$0.80/min |
 
 ### Key Improvements at a Glance
 
@@ -310,7 +310,7 @@ How does Seedance 2.0 stack up against the competition? Here's a detailed compar
 | **Human Motion** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
 | **Hand Quality** | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
 | **Global API** | 🟡 Coming | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes |
-| **Pricing** | $0.10–$0.80/min | $0.222/video | ~$0.30/video | ~$0.15/video | ~$0.50/video |
+| **Pricing** | $0.10–$0.80/min | from $0.222/s | ~from $0.30/s | ~from $0.15/s | ~from $0.50/s |
 
 ### Key Takeaways
 
@@ -321,7 +321,7 @@ How does Seedance 2.0 stack up against the competition? Here's a detailed compar
 5. **Top-tier physics** — Most realistic physical interactions among all models
 6. **Global API pending** — The main drawback is current China-only availability
 
-> **Pro Tip:** While waiting for Seedance 2.0 global API, you can use **Seedance v1.5 Pro** on [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) right now at **$0.222/video**.
+> **Pro Tip:** While waiting for Seedance 2.0 global API, you can use **Seedance v1.5 Pro** on [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) right now at **from $0.222/s**.
 
 ---
 
@@ -346,7 +346,7 @@ Don't want to wait? **Seedance v1.5 Pro is live right now:**
 
 | Plan | Price | What You Get |
 |------|-------|-------------|
-| **Pay-as-you-go** | **$0.222/video** | No commitment, pay per generation |
+| **Pay-as-you-go** | **from $0.222/s** | No commitment, pay per generation |
 | **First deposit bonus** | **25% extra credits** | Up to $100 bonus on first deposit |
 
 ### Why Atlas Cloud?
@@ -354,7 +354,7 @@ Don't want to wait? **Seedance v1.5 Pro is live right now:**
 | Benefit | Details |
 |---------|---------|
 | 🚀 **Instant Access** | No waitlists, start generating immediately |
-| 💰 **Competitive Pricing** | $0.222/video for Seedance v1.5 Pro |
+| 💰 **Competitive Pricing** | From $0.222/s for Seedance v1.5 Pro |
 | 🎁 **New User Bonus** | 25% bonus credits (up to $100) on first deposit |
 | 🔌 **Simple API** | OpenAI-compatible API format |
 | 🔒 **SOC I & II Certified** | Enterprise-grade security |
@@ -373,7 +373,7 @@ Don't want to wait? **Seedance v1.5 Pro is live right now:**
 Atlas Cloud is actively working to bring Seedance 2.0 to its global API platform. Here's what we know:
 
 **Current status:**
-- ✅ **Seedance v1.5 Pro** — Live and available now at $0.222/video
+- ✅ **Seedance v1.5 Pro** — Live and available now at from $0.222/s
 - 🔜 **Seedance 2.0** — Coming soon after global API launch
 
 **Why sign up now?**
@@ -880,6 +880,8 @@ ByteDance initially planned a global API launch alongside the domestic release, 
 
 Seedance 2.0 supports: 480p, 720p, 1080p, and 2K. Pricing scales with resolution, from an estimated $0.10/min at 720p to $0.80/min at 2K.
 
+*Prices are starting prices. Higher resolution or longer duration may cost more.*
+
 **Q7: How long can generated videos be?**
 
 Seedance 2.0 can generate clips up to **20 seconds** in a single generation. With multi-shot storytelling, you can create narrative sequences with multiple shots within that duration.
@@ -900,7 +902,7 @@ Licensing terms depend on the platform. On Jimeng AI (China), commercial use pol
 
 **Q11: Can I use Seedance on Atlas Cloud today?**
 
-Yes! **Seedance v1.5 Pro** is available right now on Atlas Cloud at **$0.222/video**. Sign up at [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683) to get started.
+Yes! **Seedance v1.5 Pro** is available right now on Atlas Cloud at **from $0.222/s**. Sign up at [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683) to get started.
 
 **Q12: When will Seedance 2.0 be on Atlas Cloud?**
 
@@ -970,7 +972,7 @@ Don't wait for Seedance 2.0 — **start building with Seedance v1.5 Pro right no
 | | |
 |---|---|
 | 🎬 **Model** | Seedance v1.5 Pro (v2.0 coming soon) |
-| 💰 **Price** | $0.222/video |
+| 💰 **Price** | from $0.222/s |
 | 🎁 **Bonus** | 25% extra credits (up to $100) on first deposit |
 | 🔗 **Sign Up** | [**atlascloud.ai →**](https://www.atlascloud.ai?ref=JPM683) |
 
