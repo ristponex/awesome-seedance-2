@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Atlas Cloud](https://img.shields.io/badge/API-Atlas%20Cloud-blue)](https://www.atlascloud.ai?ref=JPM683)
+[![Atlas Cloud](https://img.shields.io/badge/API-Atlas%20Cloud-blue)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2)
 [![Seedance Version](https://img.shields.io/badge/Seedance-v2.0-red)](https://github.com/thoughtincode/awesome-seedance-2)
 [![Stars](https://img.shields.io/github/stars/thoughtincode/awesome-seedance-2?style=social)](https://github.com/thoughtincode/awesome-seedance-2)
 
@@ -22,7 +22,7 @@
 
 | | |
 |---|---|
-| 🚀 **Try Now** | [**Atlas Cloud API Platform →**](https://www.atlascloud.ai?ref=JPM683) |
+| 🚀 **Try Now** | [**Atlas Cloud API Platform →**](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2) |
 | 🎁 **New User Bonus** | **25% bonus credits (up to $100)** on first deposit |
 | 🔒 **Trust** | SOC I & II Certified · HIPAA Compliant · US-based Company |
 
@@ -80,7 +80,7 @@ Seedance 2.0 is not just an incremental update — it's a generational leap that
 | Q1–Q2 2026 (est.) | Global API access (delayed) |
 | TBA | Available on Atlas Cloud |
 
-> **Note:** While the global API launch has been delayed, you can already access **Seedance v1.5 Pro** through [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) at from $0.044/s.
+> **Note:** While the global API launch has been delayed, you can already access **Seedance v1.5 Pro** through [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2) at from $0.044/s.
 
 ---
 
@@ -321,7 +321,7 @@ How does Seedance 2.0 stack up against the competition? Here's a detailed compar
 5. **Top-tier physics** — Most realistic physical interactions among all models
 6. **Global API pending** — The main drawback is current China-only availability
 
-> **Pro Tip:** While waiting for Seedance 2.0 global API, you can use **Seedance v1.5 Pro** on [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) right now at **from $0.044/s**.
+> **Pro Tip:** While waiting for Seedance 2.0 global API, you can use **Seedance v1.5 Pro** on [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2) right now at **from $0.044/s**.
 
 ---
 
@@ -362,7 +362,7 @@ Don't want to wait? **Seedance v1.5 Pro is live right now:**
 | 🇺🇸 **US-based** | American company with US data centers |
 | 📞 **Support** | Dedicated support team |
 
-> **[Sign up now →](https://www.atlascloud.ai?ref=JPM683)** and get **25% bonus credits (up to $100)** on your first deposit!
+> **[Sign up now →](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2)** and get **25% bonus credits (up to $100)** on your first deposit!
 
 ---
 
@@ -387,7 +387,7 @@ Atlas Cloud is actively working to bring Seedance 2.0 to its global API platform
 
 | Step | Action |
 |------|--------|
-| 1 | Visit [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) |
+| 1 | Visit [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2) |
 | 2 | Create your free account |
 | 3 | Deposit credits (get 25% bonus up to $100) |
 | 4 | Start using Seedance v1.5 Pro immediately |
@@ -864,7 +864,7 @@ Seedance 2.0 was released between February 8–12, 2026, on ByteDance's Jimeng A
 
 **Q3: Is Seedance 2.0 available globally?**
 
-Not yet. As of March 2026, Seedance 2.0 is only available on the Jimeng AI platform in China. The global API launch has been delayed. However, you can use **Seedance v1.5 Pro** on [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) right now while waiting for v2.0.
+Not yet. As of March 2026, Seedance 2.0 is only available on the Jimeng AI platform in China. The global API launch has been delayed. However, you can use **Seedance v1.5 Pro** on [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2) right now while waiting for v2.0.
 
 **Q4: How is Seedance 2.0 different from Seedance 1.5?**
 
@@ -902,7 +902,7 @@ Licensing terms depend on the platform. On Jimeng AI (China), commercial use pol
 
 **Q11: Can I use Seedance on Atlas Cloud today?**
 
-Yes! **Seedance v1.5 Pro** is available right now on Atlas Cloud at **from $0.044/s**. Sign up at [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683) to get started.
+Yes! **Seedance v1.5 Pro** is available right now on Atlas Cloud at **from $0.044/s**. Sign up at [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2) to get started.
 
 **Q12: When will Seedance 2.0 be on Atlas Cloud?**
 
@@ -917,7 +917,7 @@ Absolutely. Atlas Cloud is:
 
 **Q14: How does the referral bonus work?**
 
-When you sign up through [this referral link](https://www.atlascloud.ai?ref=JPM683), you receive a **25% bonus on your first deposit, up to $100**. For example, deposit $100 and get $125 in credits.
+When you sign up through [this referral link](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2), you receive a **25% bonus on your first deposit, up to $100**. For example, deposit $100 and get $125 in credits.
 
 **Q15: Will my v1.5 code work with v2.0?**
 
@@ -931,7 +931,7 @@ The API format is expected to be very similar. Your existing v1.5 integration co
 
 - [Jimeng AI Platform](https://www.jimeng.jianying.com/) — Official platform (China)
 - [ByteDance Research](https://research.bytedance.com/) — Research papers and announcements
-- [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) — Global API access for Seedance
+- [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2) — Global API access for Seedance
 
 ### Community
 
@@ -974,7 +974,7 @@ Don't wait for Seedance 2.0 — **start building with Seedance v1.5 Pro right no
 | 🎬 **Model** | Seedance v1.5 Pro (v2.0 coming soon) |
 | 💰 **Price** | from $0.044/s |
 | 🎁 **Bonus** | 25% extra credits (up to $100) on first deposit |
-| 🔗 **Sign Up** | [**atlascloud.ai →**](https://www.atlascloud.ai?ref=JPM683) |
+| 🔗 **Sign Up** | [**atlascloud.ai →**](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2) |
 
 ### Why Atlas Cloud?
 
@@ -983,7 +983,7 @@ Don't wait for Seedance 2.0 — **start building with Seedance v1.5 Pro right no
 - **First to v2.0** — Be notified when Seedance 2.0 launches
 - **Trusted** — SOC I & II Certified, HIPAA Compliant, US-based
 
-> **[Get Started Now → atlascloud.ai](https://www.atlascloud.ai?ref=JPM683)**
+> **[Get Started Now → atlascloud.ai](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2)**
 
 ---
 
@@ -995,9 +995,9 @@ Don't wait for Seedance 2.0 — **start building with Seedance v1.5 Pro right no
 
 ---
 
-**[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** — Your Gateway to the World's Best AI Models
+**[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2)** — Your Gateway to the World's Best AI Models
 
-[![Sign Up](https://img.shields.io/badge/Sign%20Up-Atlas%20Cloud-blue?style=for-the-badge)](https://www.atlascloud.ai?ref=JPM683)
+[![Sign Up](https://img.shields.io/badge/Sign%20Up-Atlas%20Cloud-blue?style=for-the-badge)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2)
 
 ---
 
